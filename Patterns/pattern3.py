@@ -1,5 +1,5 @@
 # this is the third pattern here we are going to print the j which is innerloop  
-
+# problem --> https://takeuforward.org/plus/dsa/problems/pattern-3?source=strivers-a2z-dsa-track
 # Enter number of lines :5
 # 1 
 # 1 2 
