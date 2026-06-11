@@ -1,32 +1,204 @@
 # DSA---Python 
 
-#Basic math problems  solved
-# Pattern Printing in Python
+# Data Structures and Algorithms in Python 🚀
 
-This repository contains solutions to pattern printing problems implemented in Python.
+Welcome to my DSA journey repository!
 
-## Patterns Covered
+I am currently following **Striver's A2Z DSA Course/Sheet** and solving problems in Python to strengthen my problem-solving skills and prepare for Software Engineering interviews.
 
-- Pattern 1: Rectangle Star Pattern
-- Pattern 2: Right Triangle Star Pattern
-- Pattern 3: Number Triangle
-- Pattern 4: Repeated Number Triangle
-- Pattern 5: Inverted Star Triangle
-- Pattern 6: Inverted Number Triangle
-- Pattern 7: Pyramid Pattern
-- Pattern 8: Inverted Pyramid
-- Pattern 9: Diamond Pattern
-- Pattern 10: Half Diamond Pattern
-- Pattern 11: Binary Triangle Pattern
-- Pattern 12: Number Symmetry Pattern
+---
 
-## Concepts Practiced
+## 🎯 Goal
 
-- Nested Loops
-- Row and Column Logic
-- Space Handling
-- Pattern Recognition
-- Mathematical Relationships
-- Problem Solving
+- Master Data Structures and Algorithms
+- Build strong problem-solving skills
+- Prepare for Product-Based Companies
+- Consistently solve coding problems
+- Track learning progress publicly
 
-Language: Python
+---
+
+## 🛠️ Language
+
+- Python 3
+
+---
+
+# 📚 Striver A2Z DSA Roadmap
+
+## 1. Learn the Basics
+
+### Basic Math Problems
+- [x] Count Digits
+- [x] Reverse Number
+- [x] Palindrome Number
+- [x] GCD / HCF
+- [x] Armstrong Number
+- [x] Divisors of Number
+- [x] Prime Number Check
+
+### Recursion
+- [x] Print Name N Times
+- [x] Print N to 1
+- [x] Print 1 to N
+- [x] Sum of First N Natural Numbers
+- [x] Factorial of N
+- [x] Reverse Array Using Recursion
+
+### Sorting
+- [x] Selection Sort
+- [x] Bubble Sort
+- [x] Insertion Sort
+- [x] Quick Sort
+- [x] Merge Sort
+
+---
+
+## 2. Arrays ⭐ (Current Topic)
+
+### Easy
+- [ ] Largest Element in Array
+- [ ] Second Largest Element
+- [ ] Check if Array is Sorted
+- [ ] Remove Duplicates from Sorted Array
+- [ ] Left Rotate Array by One Place
+- [ ] Left Rotate Array by D Places
+- [ ] Move Zeros to End
+- [ ] Linear Search
+- [ ] Union of Two Sorted Arrays
+- [ ] Missing Number
+
+### Medium
+- [ ] Two Sum
+- [ ] Sort Colors
+- [ ] Majority Element
+- [ ] Kadane's Algorithm
+- [ ] Stock Buy and Sell
+- [ ] Rearrange Array by Sign
+- [ ] Next Permutation
+
+### Hard
+- [ ] Merge Intervals
+- [ ] Merge Sorted Arrays
+- [ ] Count Inversions
+- [ ] Maximum Product Subarray
+
+---
+
+## 3. Binary Search
+- [ ] Binary Search
+- [ ] Lower Bound
+- [ ] Upper Bound
+- [ ] Search Insert Position
+- [ ] First and Last Occurrence
+- [ ] Search in Rotated Sorted Array
+
+---
+
+## 4. Strings
+- [ ] Reverse String
+- [ ] Palindrome String
+- [ ] Largest Odd Number
+- [ ] Longest Common Prefix
+- [ ] Isomorphic Strings
+
+---
+
+## 5. Linked List
+- [ ] Singly Linked List
+- [ ] Doubly Linked List
+- [ ] Reverse Linked List
+- [ ] Detect Cycle
+
+---
+
+## 6. Stack and Queue
+- [ ] Stack Implementation
+- [ ] Queue Implementation
+- [ ] Valid Parentheses
+- [ ] Next Greater Element
+
+---
+
+## 7. Trees
+- [ ] Tree Traversals
+- [ ] Height of Tree
+- [ ] Diameter of Tree
+- [ ] Balanced Binary Tree
+
+---
+
+## 8. Graphs
+- [ ] BFS
+- [ ] DFS
+- [ ] Cycle Detection
+- [ ] Topological Sort
+
+---
+
+## 9. Dynamic Programming
+- [ ] Fibonacci DP
+- [ ] Climbing Stairs
+- [ ] House Robber
+- [ ] Longest Common Subsequence
+
+---
+
+# 📂 Repository Structure
+
+```text
+DSA/
+│
+├── README.md
+│
+├── Basic_Maths/
+│
+├── Recursion/
+│
+├── Sorting/
+│
+├── Arrays/
+│
+├── Binary_Search/
+│
+├── Strings/
+│
+├── Linked_List/
+│
+├── Stack/
+│
+├── Queue/
+│
+├── Trees/
+│
+├── Graphs/
+│
+└── Dynamic_Programming/
+```
+
+---
+
+## 📈 Progress
+
+Completed:
+- Basic Maths ✅
+- Recursion ✅
+- Sorting ✅
+
+Current Focus:
+- Arrays 🔄
+
+---
+
+## 🔥 Platforms
+
+- LeetCode
+- GeeksforGeeks
+- Coding Ninjas
+- Striver A2Z Sheet
+
+---
+
+### Consistency > Intensity
+
+Solving DSA daily and documenting the learning journey one problem at a time.
