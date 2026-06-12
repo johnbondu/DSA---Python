@@ -15,7 +15,7 @@ The same process is recursively applied to the subarrays.
 ## Example
 
 ### Input
-```text
+```text  --->
 10 7 8 9 1 5
 ```
 
