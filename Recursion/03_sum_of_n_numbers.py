@@ -92,5 +92,5 @@ O(N)
 
 ## Tags
 ```text
-Recursion, Mathematics, DSA, Python
+Recursion, Mathematics, DSA, Python.
 ```
