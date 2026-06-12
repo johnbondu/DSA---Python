@@ -10,6 +10,7 @@ class Solution:
 
         return a              # This are Just for 2 numbers 
 
+#Finding GCD  using Eculid's theory
 # this is for array 
 class Solution:
     def findGCD(self, nums: List[int]) -> int:
