@@ -13,7 +13,7 @@ Selection Sort repeatedly finds the minimum element from the unsorted portion of
 
 ### Input
 ```text
-64 25 12 22 11
+64 25 12 22 11 
 ```
 
 ### Output
