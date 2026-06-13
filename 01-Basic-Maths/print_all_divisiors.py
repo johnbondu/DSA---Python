@@ -13,5 +13,14 @@ class Solution:
 
 
 
+here For first append the the number wich divides the nnumber  
+let me explain by the example 2 * 18 = 36 here we store the 2 in the first append and 18 in the second append
+
+Enter a number: 36
+[1, 2, 3, 4, 6, 9, 12, 18, 36]
+
+
+
+
 
 
