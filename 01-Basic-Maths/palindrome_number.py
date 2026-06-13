@@ -14,3 +14,9 @@ class Solution:
             x = x // 10
 
         return temp == rev
+
+
+Out_put  ---->
+212
+True
+palindrome means  in both forward and backward the numbers  looks same 
