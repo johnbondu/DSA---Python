@@ -13,3 +13,14 @@ class Solution:
             total = total + d ** digits
             n = n// 10 
         return  temp == total 
+n = int(input("Enter a Number: "))
+s = Solution()
+print(f"Is it Armstrong Number {n}.?")
+print(s.isArmstrong(n))
+
+
+Output --->
+
+Enter a Number: 153
+Is it Armstrong Number 153.?
+True
