@@ -14,3 +14,8 @@ else:
             break
     else:
         print("Prime number")
+
+OUTPUT --->
+37
+Prime number
+
