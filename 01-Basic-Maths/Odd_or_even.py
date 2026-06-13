@@ -3,11 +3,11 @@ finding even number or  odd number
 
 here iming using Bit manpulation to find that the given number is odd or even
 
-n = int(input("enter a n umnber"))
+n = int(input("enter a numnber"))
 if n & 1 : 
-  print("Odd Numbers")
+  print("Odd Number")
 else:
-  print("Even Numbers")
+  print("Even Number")
 
 
 Output ---> 
