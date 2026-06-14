@@ -57,8 +57,8 @@ I am currently following **Striver's A2Z DSA Course/Sheet** and solving problems
 ## 2. Arrays ⭐ (Current Topic)
 
 ### Easy
-- [ ] Largest Element in Array
-- [ ] Second Largest Element
+- [x] Largest Element in Array
+- [x] Second Largest Element
 - [ ] Check if Array is Sorted
 - [ ] Remove Duplicates from Sorted Array
 - [ ] Left Rotate Array by One Place
