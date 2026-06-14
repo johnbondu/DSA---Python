@@ -1,84 +1,25 @@
+# Selection Sort
 
-# Problem: Selection Sort in Python
+Today I learned and implemented the Selection Sort algorithm.
 
-## Problem Statement
+## Problem
 
-Given an array of integers, sort the array in ascending order using the **Selection Sort** algorithm.
+Given an array of integers, sort the array in ascending order using Selection Sort.
 
-Selection Sort repeatedly finds the minimum element from the unsorted portion of the array and places it at the beginning.
+### Example
 
----
+Input:
+64 25 12 22 11
 
-## Example
-
-### Input
-```text
-64 25 12 22 11 33
-```
-
-### Output
-```text
+Output:
 [11, 12, 22, 25, 64]
-```
 
----
+## My Approach
 
-## Approach
-
-1. Assume the current element is the minimum.
-2. Traverse the remaining unsorted array.
-3. Find the actual minimum element.
-4. Swap it with the current element.
-5. Repeat until the array is sorted.
-
----
-
-## Dry Run
-
-### Input
-```text
-[64, 25, 12, 22, 11]
-```
-
-### Pass 1
-
-```text
-Minimum = 11
-
-[11, 25, 12, 22, 64]
-```
-
-### Pass 2
-
-```text
-Minimum = 12
-
-[11, 12, 25, 22, 64]
-```
-
-### Pass 3
-
-```text
-Minimum = 22
-
-[11, 12, 22, 25, 64]
-```
-
-### Pass 4
-
-```text
-Minimum = 25
-
-[11, 12, 22, 25, 64]
-```
-
-### Final Output
-
-```text
-[11, 12, 22, 25, 64]
-```
-
----
+* Traverse the array from left to right.
+* For each position, find the smallest element in the remaining unsorted part of the array.
+* Swap it with the current position.
+* Repeat this process until the array becomes sorted.
 
 ## Python Code
 
@@ -97,67 +38,20 @@ def selection_sort(arr):
 
     return arr
 
-
 arr = list(map(int, input().split()))
 print(selection_sort(arr))
 ```
 
----
+## Complexity
 
-## Sample Input
+* Time Complexity: O(n²)
+* Space Complexity: O(1)
 
-```text
-64 25 12 22 11
-```
+## What I Learned
 
-## Sample Output
+* How Selection Sort works by repeatedly selecting the minimum element.
+* How to keep track of the minimum element using its index.
+* Swapping elements in Python.
+* Difference between the sorted and unsorted portions of an array.
 
-```text
-[11, 12, 22, 25, 64]
-```
-
----
-
-## Complexity Analysis
-
-### Time Complexity
-
-```text
-Best Case:    O(N²)
-Average Case: O(N²)
-Worst Case:   O(N²)
-```
-
-### Space Complexity
-
-```text
-O(1)
-```
-
-(In-place sorting algorithm)
-
----
-
-## Key Points
-
-- Simple sorting algorithm.
-- In-place sorting.
-- Not stable by default.
-- Performs fewer swaps compared to Bubble Sort.
-
----
-
-## Concepts Used
-
-- Arrays
-- Nested Loops
-- Swapping
-- Sorting Algorithms
-
----
-
-## Tags
-
-```text
-Sorting, Selection Sort, Arrays, Python, DSA
-```
+Part of my DSA preparation journey following Striver's A-Z DSA Sheet.
