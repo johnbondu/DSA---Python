@@ -1,92 +1,29 @@
-# Problem: Bubble Sort in Python
+# Bubble Sort
 
-## Problem Statement
+Today I learned and implemented the Bubble Sort algorithm.
 
-Given an array of integers, sort the array in ascending order using the **Bubble Sort** algorithm.
+## Problem
 
-Bubble Sort repeatedly compares adjacent elements and swaps them if they are in the wrong order. After each pass, the largest element moves to its correct position at the end of the array.
+Given an array of integers, sort the array in ascending order using Bubble Sort.
 
----
+### Example
 
-## Example
-
-### Input
-```text
+Input:
 64 34 25 12 22 11 90
-```
 
-### Output
-```text
+Output:
 [11, 12, 22, 25, 34, 64, 90]
-```
 
----
+## My Approach
 
-## Approach
-
-1. Compare adjacent elements.
-2. Swap them if they are in the wrong order.
-3. After each pass, the largest unsorted element "bubbles up" to its correct position.
-4. Repeat until the entire array is sorted.
-
----
-
-## Dry Run
-
-### Input
-```text
-[5, 1, 4, 2, 8]
-```
-
-### Pass 1
-
-```text
-[5, 1, 4, 2, 8]
-
-Swap 5 and 1
-[1, 5, 4, 2, 8]
-
-Swap 5 and 4
-[1, 4, 5, 2, 8]
-
-Swap 5 and 2
-[1, 4, 2, 5, 8]
-
-No swap for 5 and 8
-
-Result:
-[1, 4, 2, 5, 8]
-```
-
-### Pass 2
-
-```text
-[1, 4, 2, 5, 8]
-
-Swap 4 and 2
-[1, 2, 4, 5, 8]
-```
-
-### Pass 3
-
-```text
-No swaps needed
-Array is sorted
-```
-
-### Final Output
-
-```text
-[1, 2, 4, 5, 8]
-```
-
----
+* Compare adjacent elements in the array.
+* If the left element is greater than the right element, swap them.
+* After each pass, the largest element moves to its correct position at the end of the array.
+* Repeat the process until the entire array is sorted.
 
 ## Python Code
 
 ```python
-# Bubble Sort Algorithm
-
 def bubble_sort(arr):
     n = len(arr)
 
@@ -97,78 +34,20 @@ def bubble_sort(arr):
 
     return arr
 
-
 arr = list(map(int, input().split()))
 print(bubble_sort(arr))
 ```
 
----
+## Complexity
 
-## Sample Input
+* Time Complexity: O(n²)
+* Space Complexity: O(1)
 
-```text
-64 34 25 12 22 11 90
-```
+## What I Learned
 
-## Sample Output
+* How Bubble Sort works by comparing adjacent elements.
+* How larger elements gradually move to the end of the array after each pass.
+* Swapping elements efficiently in Python.
+* Why Bubble Sort is easy to understand but not suitable for large datasets.
 
-```text
-[11, 12, 22, 25, 34, 64, 90]
-```
-
----
-
-## Complexity Analysis
-
-### Time Complexity
-
-```text
-Best Case:    O(N²)
-Average Case: O(N²)
-Worst Case:   O(N²)
-```
-
-### Optimized Bubble Sort
-
-Using a swap flag:
-
-```text
-Best Case: O(N)
-Average Case: O(N²)
-Worst Case: O(N²)
-```
-
-### Space Complexity
-
-```text
-O(1)
-```
-
-(In-place sorting algorithm)
-
----
-
-## Key Points
-
-- Stable sorting algorithm.
-- In-place sorting.
-- Easy to understand and implement.
-- Not efficient for large datasets.
-- Largest element moves to the end after each pass.
-
----
-
-## Concepts Used
-
-- Arrays
-- Nested Loops
-- Swapping
-- Sorting Algorithms
-
----
-
-## Tags
-
-```text
-Sorting, Bubble Sort, Arrays, Python, DSA
-```
+Part of my DSA preparation journey following Striver's A-Z DSA Sheet.
