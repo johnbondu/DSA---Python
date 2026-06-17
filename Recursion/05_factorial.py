@@ -5,7 +5,7 @@ required out put like -->
 
   Enter a number : 5
 120
-
+#calling itself until base condition
 
 factorial(5)
 = 5 * factorial(4)
