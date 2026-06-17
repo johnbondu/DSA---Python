@@ -1,7 +1,7 @@
  returning factorial  of a number ---->
 
 
-required out put like -->
+required output like -->
 
   Enter a number : 5
 120
