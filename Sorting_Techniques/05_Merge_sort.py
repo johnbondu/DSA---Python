@@ -187,10 +187,3 @@ O(N)
 - Merging
 - Sorting Algorithms
 
----
-
-## Tags
-
-```text
-Sorting, Merge Sort, Recursion, Divide and Conquer, Arrays, Python, DSA
-```
