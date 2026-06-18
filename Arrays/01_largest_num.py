@@ -6,6 +6,8 @@ Today I solved a basic array problem: finding the largest element in an array.
 
 Given an array of integers, find the largest element present in the array.
 
+link --> : https://takeuforward.org/plus/dsa/problems/largest-element?source=strivers-a2z-dsa-track
+
 ### Example
 
 Input:
