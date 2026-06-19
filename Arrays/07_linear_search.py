@@ -1,6 +1,6 @@
 Given an array of integers nums and an integer target, find the smallest index (0 based indexing) where the target appears in the array. If the target is not found in the array, return -1
 
-
+link ---> :   https://takeuforward.org/plus/dsa/problems/linear-search?source=strivers-a2z-dsa-track
 Example 1
 
 Input: nums = [2, 3, 4, 5, 3], target = 3
