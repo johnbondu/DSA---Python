@@ -39,14 +39,14 @@ class Solution:
             if nums[i] == target:
                 return i
         return -1
-Alternative Solution Using enumerate()
+--------->Alternative Solution Using enumerate()<--------
 class Solution:
     def linearSearch(self, nums, target):
         for i, num in enumerate(nums):
             if num == target:
                 return i
         return -1
-Dry Run
+-----> Dry Run
 Input
 nums = [2, 3, 4, 5, 3]
 target = 3
