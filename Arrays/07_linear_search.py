@@ -15,7 +15,7 @@ Example 2
 
 Input: nums = [2, -4, 4, 0, 10], target = 6
 
-Output: -1
+Output: -1      # iin this example we are not able to find the target in given nums so we have to retrun -1 as per the question
 
 Explanation:
 
