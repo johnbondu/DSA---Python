@@ -5,7 +5,7 @@ Example 1
 
 Input: nums = [2, 3, 4, 5, 3], target = 3
 
-Output: 1
+Output: 1        # in this example  the target is 3 but in given nums we have 2 3's in nums so we have return the first occurance only
 
 Explanation:
 
