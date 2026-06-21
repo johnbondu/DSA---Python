@@ -1,3 +1,4 @@
+#this is for the linear search 
 Given an array of integers nums and an integer target, find the smallest index (0 based indexing) where the target appears in the array. If the target is not found in the array, return -1
 
 link ---> :   https://takeuforward.org/plus/dsa/problems/linear-search?source=strivers-a2z-dsa-track
@@ -33,13 +34,20 @@ Compare each element with the target.
 If the target is found, return its index immediately.
 If the traversal completes without finding the target, return -1.
 Python Solution
+
+
+
 class Solution:
     def linearSearch(self, nums, target):
         for i in range(len(nums)):
             if nums[i] == target:
                 return i
         return -1
+
+
 --------->Alternative Solution Using enumerate()<--------
+
+
 class Solution:
     def linearSearch(self, nums, target):
         for i, num in enumerate(nums):
