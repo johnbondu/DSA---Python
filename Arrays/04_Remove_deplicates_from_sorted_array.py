@@ -52,4 +52,6 @@ class Solution:
                 nums[k] = nums[i]
                 k+=1
         return k
+
+# here  we sort the array  first then we return duplicates
  
