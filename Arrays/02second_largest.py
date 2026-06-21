@@ -56,3 +56,7 @@ Part of my DSA preparation journey following Striver's A-Z DSA Sheet
 
 arr= sorted(set(num),reverse = True)
 print(arr[1]
+
+
+
+#here we have to or more ways to write codes and this is one of the optimal which is the first one and the 2nd one is using sorted(set(num),reverse = TRUE)
