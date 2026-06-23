@@ -17,6 +17,7 @@ Example 2:
 
 Input: nums = [2,1,3,4]
 Output: false
+because its not sort
 Explanation: There is no sorted array once rotated that can make nums.
 Example 3:
 
