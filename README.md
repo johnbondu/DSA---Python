@@ -140,7 +140,7 @@ I am currently following **Striver's A2Z DSA Course/Sheet** and solving problems
 - [ ] Fibonacci DP
 - [ ] Climbing Stairs
 - [ ] House Robber
-- [ ] Longest Common Subsequence
+- [ ] Longest Common Subsequence.
       
 ---
 
