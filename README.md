@@ -186,7 +186,7 @@ Completed:
 - Sorting ✅
 
 Current Focus:
-- Arrays 🔄
+- Arrays 🔄 ....
 
 ---
 
