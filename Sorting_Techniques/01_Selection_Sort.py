@@ -23,6 +23,7 @@ Output:
 
 ## Python Code
 #The main idea beyond it is first wee campare one value with  entire array
+    #after all we swap the current element with smallest element
 ```python
 def selection_sort(arr):
     n = len(arr)
