@@ -4,7 +4,7 @@ Today I learned and implemented the Bubble Sort algorithm.
 
 ## Problem
 
-Given an array of integers, sort the array in ascending order using Bubble Sort.
+Given an array of integers, sort the array in ascending order using Bubble Sort........
 
 ### Example
 
