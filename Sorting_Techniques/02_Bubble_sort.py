@@ -22,7 +22,7 @@ Output:
 * Repeat the process until the entire array is sorted.
 
 ## Python Code
-
+#@the main idea of the code is 
 ```python
 def bubble_sort(arr):
     n = len(arr)
