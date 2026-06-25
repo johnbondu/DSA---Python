@@ -22,7 +22,7 @@ Output:
 * Repeat this process until the array becomes sorted.
 
 ## Python Code
-#The main idea beyond it is first wee campare one value with 
+#The main idea beyond it is first wee campare one value with  entire array
 ```python
 def selection_sort(arr):
     n = len(arr)
