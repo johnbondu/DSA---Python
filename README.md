@@ -8,7 +8,7 @@ I am currently following **Striver's A2Z DSA Course/Sheet** and solving problems
 
 ---
 
-## 🎯 Goal
+## 🎯 Goal....
 
 - Master Data Structures and Algorithms
 - Build strong problem-solving skills
