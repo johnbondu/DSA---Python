@@ -12,7 +12,7 @@ I am currently following **Striver's A2Z DSA Course/Sheet** and solving problems
 
 - Master Data Structures and Algorithms
 - Build strong problem-solving skills
-- Prepare for Product-Based Companies....
+- Prepare for Product-Based Companies
 - Consistently solve coding problems
 - Track learning progress publicly
 - .....
