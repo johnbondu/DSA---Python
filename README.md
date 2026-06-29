@@ -69,7 +69,7 @@ I am currently following **Striver's A2Z DSA Course/Sheet** and solving problems
 - [x] Missing Number
 
 ### Medium
-- [ ] Two Sum
+- [x] Two Sum
 - [ ] Sort Colors
 - [ ] Majority Element
 - [ ] Kadane's Algorithm
