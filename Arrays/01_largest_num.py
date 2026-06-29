@@ -26,8 +26,7 @@ Output:
 ## Python Code
 
 ```python
-nums = list(map(int, input("Enter an array: ").split())).......................
-
+nums = list(map(int, input("Enter an array: ").split()))
 def find_largest_num(nums):
     largest = nums[0]
 
