@@ -59,14 +59,14 @@ I am currently following **Striver's A2Z DSA Course/Sheet** and solving problems
 ### Easy
 - [x] Largest Element in Array
 - [x] Second Largest Element
-- [ ] Check if Array is Sorted
-- [ ] Remove Duplicates from Sorted Array
-- [ ] Left Rotate Array by One Place
-- [ ] Left Rotate Array by D Places
-- [ ] Move Zeros to End
-- [ ] Linear Search
-- [ ] Union of Two Sorted Arrays
-- [ ] Missing Number
+- [x] Check if Array is Sorted
+- [x] Remove Duplicates from Sorted Array
+- [x] Left Rotate Array by One Place
+- [x] Left Rotate Array by D Places
+- [x] Move Zeros to End
+- [x] Linear Search
+- [x] Union of Two Sorted Arrays
+- [x] Missing Number
 
 ### Medium
 - [ ] Two Sum
